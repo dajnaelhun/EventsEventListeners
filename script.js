@@ -10,8 +10,12 @@ $('#secondbutton').on('click',()=>{
 
 let szinek = ['green','red', 'blue']
 
+let color = $('textegy.placeholder')
+
 $('#szinvalto').on('click',()=>{
-    $('button').css('background-color','green')
+    $('button').css('background-color',)
 
 })
+
+
 
